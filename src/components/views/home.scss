@@ -1,0 +1,25 @@
+.home {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  min-height: 100%;
+
+  main {
+    padding: var(--gap-standard);
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: var(--gap-standard);
+  }
+
+  &-content {
+    display: flex;
+    justify-content: space-between;
+
+    &-left {
+      display: flex;
+      flex-direction: column;
+      gap: var(--gap-standard);
+    }
+  }
+}

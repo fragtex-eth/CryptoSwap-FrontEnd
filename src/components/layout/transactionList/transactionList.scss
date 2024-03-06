@@ -1,0 +1,41 @@
+.transaction-list {
+  z-index: 1;
+  position: relative;
+
+  &-transactions {
+    &-table {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      font-size: 0.875rem;
+      color: var(--tertiary-color);
+
+      &-row {
+        &-img {
+          margin-top: auto;
+          margin-bottom: auto;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 1360px) {
+  .transaction-list-transactions-table-row:nth-child(3) {
+    display: none;
+  }
+
+  .transaction-list-transactions-table-row:nth-child(8) {
+    display: none;
+  }
+}
+
+@media (max-width: 1075px) {
+  .transaction-list-transactions-table-row:nth-child(2) {
+    display: none;
+  }
+
+  .transaction-list-transactions-table-row:nth-child(5) {
+    display: none;
+  }
+}

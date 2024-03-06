@@ -1,0 +1,6 @@
+.nft-list {
+  &-collection {
+    display: flex;
+    gap: var(--gap-standard);
+  }
+}

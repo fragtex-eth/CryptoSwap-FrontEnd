@@ -1,0 +1,702 @@
+[
+  {
+    "id": "imagination-station-x-reddit-collectible-avatars",
+    "contract_address": "0x5846728730366d686cdc95dae80a70b44ec9eab2",
+    "name": "Unidentified contract",
+    "asset_platform_id": "polygon-pos",
+    "symbol": ""
+  },
+  {
+    "id": "elysium-code",
+    "contract_address": "0x9940bb667f64fca06fc4127861855696def7c69d",
+    "name": "Elysium Code",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "r-planet-genesis-collection",
+    "contract_address": "0x656d34a8309363302e46de99853f4cef30b85a1d",
+    "name": "R Planet - Genesis Collection",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "rtfkt-x-rimowa-meta-artisan-collection",
+    "contract_address": "0x253ef258563e146f685e60219da56a6b75178e19",
+    "name": "RTFKT x RIMOWA Meta-Artisan Collection 🌌",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "pills",
+    "contract_address": "0xa16891897378a82e9f0ad44a705b292c9753538c",
+    "name": "PILLS",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "bored-ape-chemistry-club",
+    "contract_address": "0x22c36bfdcef207f9c0cc941936eff94d4246d14a",
+    "name": "Bored Ape Chemistry Club",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "rubber-duck-bath-party",
+    "contract_address": "0x7a4d1b54dd21dde804c18b7a830b5bc6e586a7f6",
+    "name": "Rubber Duck Bath Party",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "spooky-season-poieeeyee-x-reddit-collectible-avatars",
+    "contract_address": "0x91ac106090fe2b0fa7d01efdf4487a5bfafad7fa",
+    "name": "Spooky Season: poieeeyee x Reddit Collectible Avatars",
+    "asset_platform_id": "polygon-pos",
+    "symbol": ""
+  },
+  {
+    "id": "chainfaces",
+    "contract_address": "0x91047abf3cab8da5a9515c8750ab33b4f1560a7a",
+    "name": "ChainFaces",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "colorglyphs",
+    "contract_address": "0x60F3680350F65Beb2752788cB48aBFCE84a4759E",
+    "name": "Colorglyphs",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "wow-capacitors",
+    "contract_address": "0x09f717f77b5e7f2d2f37604fec3d0e3d53eb9808",
+    "name": "WoW - Capacitors",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "etherorcs-allies",
+    "contract_address": "0x62674b8ace7d939bb07bea6d32c55b74650e0eaa",
+    "name": "EtherOrcs Allies",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "the-possessed",
+    "contract_address": "0x3a2096754df385553c4252e5a82dc862e64169bb",
+    "name": "The Possessed",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "beeple-the-5000-days-collection",
+    "contract_address": "0x23cd7dA31501aa54F61384a3756Fb4A1329DbB2C",
+    "name": "BEEPLE - THE 5000 DAYS COLLECTION",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "crypto-unicorns-items-marketplace",
+    "contract_address": "0x99a558bdbde247c2b2716f0d4cfb0e246dfb697d",
+    "name": "Crypto Unicorns: Items Marketplace",
+    "asset_platform_id": "polygon-pos",
+    "symbol": ""
+  },
+  {
+    "id": "ocm-dessert",
+    "contract_address": "0x5079fc4e96338be1b5aff236ff4b00ec4452b2d3",
+    "name": "OCM Dessert",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "venice-99",
+    "contract_address": "0x9d6c87c83159f53550718c4b8a7e5d189983747a",
+    "name": "Venice 99'",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "superfarm-genesis-series",
+    "contract_address": "0xe4597f9182ba947f7f3bf8cbc6562285751d5aee",
+    "name": "SuperFarm Genesis Series",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "embersword-badge",
+    "contract_address": "0xa5511e9941e303101b50675926fd4d9c1a8a8805",
+    "name": "Ember Sword Badge",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "lives-of-asuna",
+    "contract_address": "0xaf615b61448691fc3e4c61ae4f015d6e77b6cca8",
+    "name": "Lives of Asuna",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "blueberrylab",
+    "contract_address": "0xF4f935F4272e6FD9C779cF0036589A63b48d77A7",
+    "name": "Blueberry Lab Items",
+    "asset_platform_id": "arbitrum-one",
+    "symbol": ""
+  },
+  {
+    "id": "foustlings-x-reddit-collectible-avatars",
+    "contract_address": "0x907808732079863886443057c65827a0f1c64357",
+    "name": "Foustlings x Reddit Collectible Avatars",
+    "asset_platform_id": "polygon-pos",
+    "symbol": ""
+  },
+  {
+    "id": "collider-craftworks-cypher-drop-1",
+    "contract_address": "0x6400c9cf1961a36b40616ead83e87a973f47f548",
+    "name": "Collider Craftworks - Cypher Drop #1",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "essence",
+    "contract_address": "0xddb149ae8e6635df01a530da1e46921bd78dc385",
+    "name": "ESSENCE//",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "gray-boys-science-lab",
+    "contract_address": "0xf90733ab2f368ffe41bfba80443e04fc33321f67",
+    "name": "Gray Boys: Science Lab",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "decentral-games-ice",
+    "contract_address": "0xd79cf5a41d8caec4688e01b4754ea2da6f51e856",
+    "name": "Decentral Games ICE Poker",
+    "asset_platform_id": "polygon-pos",
+    "symbol": ""
+  },
+  {
+    "id": "lobster",
+    "contract_address": "0x23AE31DfA85d52013640CFea8608fffF6b5E920d",
+    "name": "lobster",
+    "asset_platform_id": "arbitrum-one",
+    "symbol": ""
+  },
+  {
+    "id": "10ktf-stockroom",
+    "contract_address": "0x7daec605e9e2a1717326eedfd660601e2753a057",
+    "name": "10KTF Stockroom",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "pudgy-halloween",
+    "contract_address": "0x4d8679083F77a44449162a0A7Ce500f77ca406B8",
+    "name": "Pudgy Halloween",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "candy-digital",
+    "contract_address": "0x7a44228e46cdd37a85c0b07c4043b86c11e8c315",
+    "name": "Candy Digital",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "pxin-gxng",
+    "contract_address": "0xedfc4f35060de1a30e08b0d8b9986a4adbdf6c59",
+    "name": "PXIN GXNG",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "the-saudis",
+    "contract_address": "0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1",
+    "name": "The Saudis",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "zipcy-supernormal",
+    "contract_address": "0xd532b88607b1877fe20c181cba2550e3bbd6b31c",
+    "name": "Zipcy's SuperNormal",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "rtfkt-skin-vial-evo-x",
+    "contract_address": "0x9A06Ef3a841316a9e2c1C93B9c21a7342abE484F",
+    "name": "RTFKT SKIN VIAL: EVO X",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "ethernity-master",
+    "contract_address": "0x978f7f915eb562d3819a82daf4cee01dd636c2d1",
+    "name": "Ethernity's Master Collection",
+    "asset_platform_id": "polygon-pos",
+    "symbol": ""
+  },
+  {
+    "id": "murakami-lucky-cat-coin-bank",
+    "contract_address": "0xdedf88899d7c9025f19c6c9f188deb98d49cd760",
+    "name": "Murakami Lucky Cat Coin Bank",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "fusion-by-hideki-tsukamoto",
+    "contract_address": "0xDaa5f6cD0d1aE382A67e8A9b1dDff08685E443Bc",
+    "name": "Fusion by Hideki Tsukamoto",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "nft-academy",
+    "contract_address": "0xa3106416fde395bf6a62b8e932df01f5f660a5f2",
+    "name": "NFT Academy",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "oncyber-labs",
+    "contract_address": "0x226bf5293692610692e2c996c9875c914d2a7f73",
+    "name": "oncyber labs",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "bobu-the-bean-farmer",
+    "contract_address": "0x2079812353e2c9409a788fbf5f383fa62ad85be8",
+    "name": "Bobu, the Bean Farmer",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "champs-only",
+    "contract_address": "0x38a6fd7148c4900338e903258b5e289dfa995e2e",
+    "name": "Champs Only",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "galxe",
+    "contract_address": "0x15de1beb13d7d38cbc493d3ecbc0c7650e715c22",
+    "name": "Galxe",
+    "asset_platform_id": "polygon-pos",
+    "symbol": ""
+  },
+  {
+    "id": "rarible",
+    "contract_address": "0xd07dc4262bcdbf85190c01c996b4c06a461d2430",
+    "name": "Rarible",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "my-curio-cards",
+    "contract_address": "0x73da73ef3a6982109c4d5bdb0db9dd3e3783f313",
+    "name": "My Curio Cards",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "hashflow-official",
+    "contract_address": "0x41e3d4b3a79e464f65fffe18aa063de983ef97de",
+    "name": "Hashflow (Official)",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "starry-nift",
+    "contract_address": "0xc7e8ad1467d6a2732691fd65dddc28f18ea6b1cc",
+    "name": "StarryNift",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "originals-by-ozzy-osbourne",
+    "contract_address": "0x94efc5d69932d31901bda19d76660e2ca2ba9af6",
+    "name": "Originals by Ozzy Osbourne",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "ens-tools",
+    "contract_address": "0x5113a3dd866a3ee8e973fc764cc380e6f07416ef",
+    "name": "ENS Tools",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "rtfkt-mnlth",
+    "contract_address": "0x86825dFCa7A6224cfBd2DA48e85DF2fc3Aa7C4B1",
+    "name": "RTFKT - MNLTH",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "sunflower-land-collectibles",
+    "contract_address": "0x22d5f9b75c524fec1d6619787e582644cd4d7422",
+    "name": "Sunflower Land Collectibles",
+    "asset_platform_id": "polygon-pos",
+    "symbol": ""
+  },
+  {
+    "id": "deepblack",
+    "contract_address": "0xd70f41dd5875eee7fa9dd8048567bc932124a8d2",
+    "name": "DeepBlack",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "888-inner-circle",
+    "contract_address": "0x36d30b3b85255473d27dd0f7fd8f35e36a9d6f06",
+    "name": "888 inner circle",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "ledger-market-black-on-black-nano-x",
+    "contract_address": "0x0f77625B76e3831914d47a5034323290f9Ce8A9E",
+    "name": "[ Ledger ] Market – Black-on-Black Nano X",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "paladin-pandas",
+    "contract_address": "0xad6dc35442d766f87f9296f17ba45e23518bc5f3",
+    "name": "Paladin Pandas",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "gutter-cat-gang",
+    "contract_address": "0xedb61f74b0d09b2558f1eeb79b247c1f363ae452",
+    "name": "Gutter Cat Gang",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "tbac",
+    "contract_address": "0x7cc7add921e2222738561d03c89589929cefcf21",
+    "name": "TBAC",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "treeverse-plots",
+    "contract_address": "0x1b829b926a14634d36625e60165c0770c09d02b2",
+    "name": "Treeverse Plots",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "rtfkt-clonex-mintvial",
+    "contract_address": "0x348fc118bcc65a92dc033a951af153d14d945312",
+    "name": "RTFKT - CloneX Mintvial",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "ice-poker-tournament-wearables",
+    "contract_address": "0xb854bf4d15be8e1f9b38e8b6af7d3283b81edfd8",
+    "name": "ICE Poker Tournament Wearables",
+    "asset_platform_id": "polygon-pos",
+    "symbol": ""
+  },
+  {
+    "id": "adidas-originals-meta-capsule",
+    "contract_address": "0x455c732fee7b5c3b09531439b598ead4817d5274",
+    "name": "adidas Originals Meta Capsule",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "town-star",
+    "contract_address": "0xc36cf0cfcb5d905b8b513860db0cfe63f6cf9f5c",
+    "name": "Town Star",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "fear-city-by-stephen-bliss",
+    "contract_address": "0x92ac03d1eb81bb8402fcdbe3ef43c6ca0cbba8f9",
+    "name": "Fear City by Stephen Bliss",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "bowie-on-the-blockchain",
+    "contract_address": "0x2438a0eeffa36cb738727953d35047fb89c81417",
+    "name": "Bowie on the Blockchain",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "benji-bananas-membership-pass",
+    "contract_address": "0x5911a6da952a9d1b67be13cecb389ad247420360",
+    "name": "Benji Bananas : Membership Pass",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "avastars",
+    "contract_address": "0xf3e778f839934fc819cfa1040aabacecba01e049",
+    "name": "Avastars",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "joyworld-joys",
+    "contract_address": "0x6c7b6cc55d4098400ac787c8793205d3e86c37c9",
+    "name": "JOYWORLD JOYs",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "rabbithole-quests",
+    "contract_address": "0xb606D0a6F114C866FbAB0C4f7c492e4E180500C7",
+    "name": "RabbitHole Quests",
+    "asset_platform_id": "optimistic-ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "fortune",
+    "contract_address": "0x47e22659d9ae152975e6cbfa2eed5dc8b75ac545",
+    "name": "Fortune",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "sougen-genesis-collection",
+    "contract_address": "0x08549931c9766c7d7ae59d98cc08ee133fe3db12",
+    "name": "Sougen Genesis Collection",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "m-ape-kids-club-m1",
+    "contract_address": "0x828b78e11bc6a061b8b1ab9cf29c68ed6abb247b",
+    "name": "M Ape Kids Club - M1",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "gods-unchained-collectibles",
+    "contract_address": "0x9839499c38acbd6e11b4af0e50cc2259bffeac51",
+    "name": "Gods Unchained Collectibles",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "stryking",
+    "contract_address": "0x094634cf5ec4b34b7f47bcb2c03c1c9f48e1ece8",
+    "name": "Stryking",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "toadstoolz-itemz",
+    "contract_address": "0x5e0ba87362f239bDBF40E621Fa11DBD50d190389",
+    "name": "Toadtoolz Itemz",
+    "asset_platform_id": "arbitrum-one",
+    "symbol": ""
+  },
+  {
+    "id": "reuben-wu-limited-editions",
+    "contract_address": "0x34878e0960f02190f1eea39b1b99530db87b05d9",
+    "name": "Reuben Wu - Limited Editions",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "silks-sky-falls-pyramid",
+    "contract_address": "0x6ece2e550d7848c40c26a0e704b7a19d1f8dbcf0",
+    "name": "Silks - Sky Falls Pyramid",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "nifty-island-legendary-palms",
+    "contract_address": "0x730151b8286ca0508a19a9d5c47fe91fdd9a6737",
+    "name": "Nifty Island: Legendary Palms",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "monster-cave-elder-torch",
+    "contract_address": "0x6079ea481ebb901568e294e8dcdecff6ac451b1a",
+    "name": "Monster Cave - Elder Torch",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "apes-r-us",
+    "contract_address": "0xD44078705456C4f4517A659953f5296e5328F8b8",
+    "name": "Apes-R-Us",
+    "asset_platform_id": "ethereum",
+    "symbol": ""
+  },
+  {
+    "id": "squiggly",
+    "contract_address": "0x36F379400DE6c6BCDF4408B282F8b685c56adc60",
+    "name": "Squiggly",
+    "asset_platform_id": "ethereum",
+    "symbol": "~~"
+  },
+  {
+    "id": "autoglyphs",
+    "contract_address": "0xd4e4078ca3495de5b1d4db434bebc5a986197782",
+    "name": "Autoglyphs",
+    "asset_platform_id": "ethereum",
+    "symbol": "☵"
+  },
+  {
+    "id": "meebits",
+    "contract_address": "0x7Bd29408f11D2bFC23c34f18275bBf23bB716Bc7",
+    "name": "Meebits",
+    "asset_platform_id": "ethereum",
+    "symbol": "⚇"
+  },
+  {
+    "id": "spacepunksclub",
+    "contract_address": "0x45db714f24f5a313569c41683047f1d49e78ba07",
+    "name": "SpacePunksClub",
+    "asset_platform_id": "ethereum",
+    "symbol": "⚇"
+  },
+  {
+    "id": "edgehogs",
+    "contract_address": "0x96889c4766e3d548f6842a6b3bb0b69d1b707b8c",
+    "name": "EDGEHOGS",
+    "asset_platform_id": "ethereum",
+    "symbol": "⚉"
+  },
+  {
+    "id": "starkade-legion",
+    "contract_address": "0x5d2bf3b4264efade95fc89348f1367fca0552861",
+    "name": "STARKADE: Legion",
+    "asset_platform_id": "ethereum",
+    "symbol": "💫"
+  },
+  {
+    "id": "lootprints-for-mooncats",
+    "contract_address": "0x1e9385ee28c5c7d33f3472f732fb08ce3cebce1f",
+    "name": "lootprints (for MoonCats)",
+    "asset_platform_id": "ethereum",
+    "symbol": "📜"
+  },
+  {
+    "id": "ethlings",
+    "contract_address": "0x8a1abd2e227db543f4228045dd0acf658601fede",
+    "name": "Ethlings",
+    "asset_platform_id": "polygon-pos",
+    "symbol": "😉"
+  },
+  {
+    "id": "mooncats-acclimated",
+    "contract_address": "0xc3f733ca98e0dad0386979eb96fb1722a1a05e69",
+    "name": "MoonCats - Acclimated",
+    "asset_platform_id": "ethereum",
+    "symbol": "😺"
+  },
+  {
+    "id": "ethlings-wearables",
+    "contract_address": "0x2b9bd413852401a7e09c77de1fab53915f8f9336",
+    "name": "Ethlings Wearables",
+    "asset_platform_id": "polygon-pos",
+    "symbol": "🥽"
+  },
+  {
+    "id": "mutant-garden-seeder",
+    "contract_address": "0x20c70bdfcc398c1f06ba81730c8b52ace3af7cc3",
+    "name": "Mutant Garden Seeder",
+    "asset_platform_id": "ethereum",
+    "symbol": "🧬"
+  },
+  {
+    "id": "obits-official",
+    "contract_address": "0x30cdac3871c41a63767247c8d1a2de59f5714e78",
+    "name": "Obits Official",
+    "asset_platform_id": "ethereum",
+    "symbol": "0bits"
+  },
+  {
+    "id": "optighost-town",
+    "contract_address": "0xe51C6089bd0d8D6A25fcD11eC409D2A1AAC5e632",
+    "name": "OptiGhost Town",
+    "asset_platform_id": "optimistic-ethereum",
+    "symbol": "0GT"
+  },
+  {
+    "id": "0n1force",
+    "contract_address": "0x3bf2922f4520a8ba0c2efc3d2a1539678dad5e9d",
+    "name": "0N1 Force",
+    "asset_platform_id": "ethereum",
+    "symbol": "0N1"
+  },
+  {
+    "id": "0ni",
+    "contract_address": "0x5CB6cd0BaE76a11130015De705f38c02AC611F2F",
+    "name": "0ni",
+    "asset_platform_id": "arbitrum-one",
+    "symbol": "0ni"
+  },
+  {
+    "id": "project-0xd38",
+    "contract_address": "0x34b09150783499056b2e04a94c25814fe6ac1c7b",
+    "name": "Project 0xD38",
+    "asset_platform_id": "ethereum",
+    "symbol": "0xD38"
+  },
+  {
+    "id": "0xmons",
+    "contract_address": "0x0427743DF720801825a5c82e0582B1E915E0F750",
+    "name": "0xmons",
+    "asset_platform_id": "ethereum",
+    "symbol": "0XMON"
+  },
+  {
+    "id": "0xog-pass-by-0xstudio",
+    "contract_address": "0x5b7622ded96511639ddc12c86eb2703331ca2c78",
+    "name": "0xOG Pass by 0xStudio",
+    "asset_platform_id": "ethereum",
+    "symbol": "0xOGPASS"
+  },
+  {
+    "id": "0xvampire-project",
+    "contract_address": "0xc9e2c9718ff7d3129b9ac12168195507e4275cea",
+    "name": "0xVampire Project",
+    "asset_platform_id": "ethereum",
+    "symbol": "0xV"
+  },
+  {
+    "id": "100-web-characters",
+    "contract_address": "0xc4252cadeff39a78d92b3150f08e4cadf88a8095",
+    "name": "100 Web Characters",
+    "asset_platform_id": "avalanche",
+    "symbol": "100WEBCHARS"
+  },
+  {
+    "id": "10ktf",
+    "contract_address": "0x0cfb5d82be2b949e8fa73a656df91821e2ad99fd",
+    "name": "10KTF",
+    "asset_platform_id": "ethereum",
+    "symbol": "10KTF"
+  },
+  {
+    "id": "oneonesnft",
+    "contract_address": "0x2de87c6f15bc8b3af69443e5274302d02d55a38c",
+    "name": "OneOnesNFT",
+    "asset_platform_id": "ethereum",
+    "symbol": "11"
+  }
+]

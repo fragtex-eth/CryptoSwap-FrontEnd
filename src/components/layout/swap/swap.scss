@@ -1,0 +1,139 @@
+.swap {
+  background: var(--secondary-color);
+  border: var(--border-small);
+  border-radius: var(--border-radius-small);
+  max-width: 22rem;
+  width: 100%;
+  padding: 1.25rem;
+  margin-left: auto;
+  margin-bottom: auto;
+  z-index: 1;
+  font-size: 1.25rem;
+  color: var(--text-color);
+
+  &-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    &-exchange {
+      font-size: 1.8rem;
+      cursor: pointer;
+
+      &:hover {
+        transform: scale(1.1);
+      }
+
+      &:active {
+        transform: scale(0.95);
+      }
+    }
+  }
+
+  &-rate {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0rem;
+
+    &-value {
+      color: var(--text-color);
+      display: flex;
+
+      &-symbol {
+        color: var(--tertiary-color);
+      }
+    }
+
+    &-arrow {
+      font-size: 1.7rem;
+      color: var(--tertiary-color);
+    }
+  }
+
+  &-amount {
+    color: var(--tertiary-color);
+    margin-top: 1rem;
+
+    &-container {
+      color: var(--text-color);
+      background-color: var(--primary-color);
+      border: var(--border-small);
+      border-radius: var(--border-radius-small);
+      width: 100%;
+      display: flex;
+      align-items: center;
+      margin-top: 0.25rem;
+      padding: 0.25rem;
+      justify-content: space-around;
+      box-sizing: border-box;
+
+      &-input {
+        all: unset;
+        width: 70%;
+        background: transparent;
+        font-size: 1.25rem;
+      }
+
+      &-select {
+        all: unset;
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+
+        &:hover {
+          color: rgb(167, 167, 167);
+        }
+
+        img {
+          width: 2rem;
+          height: 2rem;
+        }
+      }
+    }
+  }
+
+  &-submit {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: var(--gap-standard);
+    margin-top: var(--gap-standard);
+
+    &-btn {
+      all: unset;
+      background: linear-gradient(108.49deg,
+          var(--pink-color) 0%,
+          var(--blue-color) 95.17%);
+      border-radius: var(--border-radius-small);
+      font-size: 1rem;
+      font-weight: 600;
+
+      &:hover {
+        background: linear-gradient(1.49deg,
+            var(--pink-color) 0%,
+            var(--blue-color) 95.17%);
+      }
+
+      &-loader {
+        border: 3px solid #f3f3f3;
+        /* Light grey */
+        border-top: 3px solid #1e222a;
+        /* Blue */
+        border-radius: 50%;
+        width: 20px;
+        height: 20px;
+        animation: spin 2s linear infinite;
+        transform: scale(10%);
+        margin-top: auto;
+        margin-bottom: auto;
+      }
+    }
+  }
+}
+
+@media (max-width: 780px) {
+  .swap {
+    margin-right: auto;
+  }
+}

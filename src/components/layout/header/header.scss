@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  &-input-container {
+    display: flex;
+    align-items: center;
+    background-color: var(--secondary-color);
+    font-size: 1.5rem;
+    padding: 0.55rem 1rem;
+    border: var(--border-small);
+    border-radius: var(--border-radius-small);
+
+    &-search {
+      all: unset;
+      color: var(--tertiary-color);
+      padding-left: 1rem;
+    }
+  }
+
+  &-notification {
+    display: flex;
+    margin-left: auto;
+    padding: 0.8rem;
+
+    background: linear-gradient(180deg, #171822 0%, #171822 100%);
+    border: var(--border-small);
+    border-radius: var(--border-radius-small);
+  }
+
+  &-connect {
+    display: flex;
+  }
+}

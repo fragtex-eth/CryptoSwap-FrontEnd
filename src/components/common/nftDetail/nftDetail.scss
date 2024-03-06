@@ -1,0 +1,29 @@
+.nft-detail {
+  width: 17rem;
+  display: flex;
+  flex-direction: column;
+  border: var(--border-small);
+  border-radius: var(--border-radius-small);
+  box-sizing: border-box;
+  overflow: hidden;
+
+  &-video {
+    height: 14rem;
+    object-fit: cover;
+  }
+
+  &-text {
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem 1rem;
+  }
+
+  &-collectionName {
+    color: var(--tertiary-color);
+    margin: 0.5rem 0rem;
+  }
+
+  &-name {
+    font-size: 1.4rem;
+  }
+}
