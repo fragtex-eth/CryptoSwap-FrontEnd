@@ -27,7 +27,7 @@ export default function Home() {
   const screenSize = screenWidth / 16 - 30;
   const maxNumberOfItems = Math.floor(screenSize / 18);
   const displayItems = maxNumberOfItems > 0;
-  console.log(maxNumberOfItems);
+
   return (
     <div className="home">
       {displayItems && <Sidebar />}
