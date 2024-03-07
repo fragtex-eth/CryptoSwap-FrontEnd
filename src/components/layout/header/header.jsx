@@ -4,7 +4,8 @@ import { debounce } from "../../../utils/debounce";
 import { BsSearch } from "react-icons/bs";
 import { RiNotification3Line } from "react-icons/ri";
 import allcoins from "../../../allcoins.json";
-import { ConnectButton } from "@rainbow-me/rainbowkit";
+// import { ConnectButton } from "@rainbow-me/rainbowkit";
+import { CustomConnectBtn } from "../../common/rainbowkit/connectButton";
 function Header({ setSearch, displaySearch }) {
   function findCoinsAndSetSearch(inputValue) {
     let inputstrg = inputValue.toLowerCase();
@@ -38,8 +39,7 @@ function Header({ setSearch, displaySearch }) {
             onChange={(e) => {
               handleInputChange(e);
             }}
-          >
-          </input>
+          ></input>
         </div>
       )}
       <RiNotification3Line
@@ -51,7 +51,7 @@ function Header({ setSearch, displaySearch }) {
           zIndex: "2",
         }}
       />
-      <ConnectButton
+      <CustomConnectBtn
         className="header-connect"
         showBalance={{
           smallScreen: false,

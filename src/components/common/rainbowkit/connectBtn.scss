@@ -1,0 +1,18 @@
+.connect-btn {
+  all: unset;
+  color: rgb(166, 169, 179);
+  font-size: 20px;
+  padding: 0.8rem;
+  background: #171822;
+  border-radius: var(--border-radius-small);
+  border: var(--border-small);
+  cursor: pointer;
+
+  &:hover {
+    background-color: var(--primary-color);
+  }
+
+  &:active {
+    background: var(--secondary-color);
+  }
+}
