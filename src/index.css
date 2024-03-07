@@ -17,7 +17,8 @@ body {
   --pink-color: #af53ff;
   --blue-color: #6eafce;
   --border-radius-small: 0.75rem;
-  --border-small: 1px solid color-mix(in srgb, var(--tertiary-color) 10%, transparent);
+  --border-small: 1px solid
+    color-mix(in srgb, var(--tertiary-color) 10%, transparent);
   --gap-standard: 1rem;
   box-sizing: border-box;
   color: var(--text-color);
@@ -41,7 +42,7 @@ h1 {
   padding-right: 0px;
   margin-right: 0px;
   margin-left: 0px;
-  height: 100vh;
+  min-height: 100vh;
   z-index: -100;
 }
 
