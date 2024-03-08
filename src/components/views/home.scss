@@ -3,6 +3,8 @@
   align-items: flex-start;
   width: 100%;
   min-height: 100%;
+  max-width: 125rem;
+  margin: 0 auto;
 
   main {
     padding: var(--gap-standard);
